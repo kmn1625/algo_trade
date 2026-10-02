@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# backtest outputs / caches
+backtest_results/
+__pycache__/
+.pytest_cache/
